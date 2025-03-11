@@ -1,9 +1,9 @@
 baseurl: ""
 domain: ""
-url: "https://sunn.is-a.dev/lynxwebsite"
+url: "https://clyron.is-a.dev/lynxwebsite"
 name: "Lynxmic"
 logo: "/img/logotype.png"
-currentyear: "2024"
+currentyear: "2025"
 
 discord: "wDxDKJU2sj"
-source_url: "https://github.com/sunn-ia32/lynxwebsite"
+source_url: "https://github.com/theclyron/lynxwebsite"
